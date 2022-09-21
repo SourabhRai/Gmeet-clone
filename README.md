@@ -1,4 +1,7 @@
 # google-meet-clone
+This is a clone of github . I learnt this from https://www.youtube.com/watch?v=JDfh15cZBoU&t=0s .
+
+
 
 # SETUP
 Start redis server "redis-server"
